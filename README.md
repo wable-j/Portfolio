@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="vercel_app_link" target="_blank">Jugal Wable</a>
+  <a href="https://portfoliowebsite-jugal-wables-projects.vercel.app/" target="_blank">Jugal Wable</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/wable-j/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/wable-j/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
@@ -31,7 +31,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">Jugal Wable</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://portfoliowebsite-jugal-wables-projects.vercel.app/" target="_blank">Jugal Wable</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
